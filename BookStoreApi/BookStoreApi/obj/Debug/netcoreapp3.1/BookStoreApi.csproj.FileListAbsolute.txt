@@ -35,3 +35,13 @@ C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\obj\Debug\netc
 C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\obj\Debug\netcoreapp3.1\BookStoreApi.dll
 C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\obj\Debug\netcoreapp3.1\BookStoreApi.pdb
 C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\obj\Debug\netcoreapp3.1\BookStoreApi.genruntimeconfig.cache
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91888\Desktop\BookStoreBackEnd\BookStoreApi\BookStoreApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
